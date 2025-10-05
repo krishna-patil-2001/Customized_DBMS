@@ -14,7 +14,7 @@ Customized_DBMS is a simple console-based Java Database Management System that a
  - Display all employee data
  - Search by ID or Name
  - Delete or update specific records
- - Backup and restore using serialization (CustomDBMS.ser)
+ - Backup and restore using serialization (CustomizedDBMS.ser)
   
  Aggregate operations:
   
